@@ -27,7 +27,6 @@ while 1:
             file_input(input("Введите путь до файла с данными:").strip())
         elif answer == "3":
             # Генерация случайных матриц
-            print("Генерация...")
             random_system()
         elif answer == "4":
             # Конец программы
